@@ -1,0 +1,9 @@
+body{
+    font-family: 'Sigmar One', cursive;
+    background-image: url(cutedinos.png);
+    padding: 1%;
+}
+
+.giffy{
+    float: left;
+}
